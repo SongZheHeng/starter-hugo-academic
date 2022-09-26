@@ -10,13 +10,27 @@ headless: true
 weight: 30
 
 title: Skills
--	icon: "computer-solid"
-    name: "Computer Skills"
-    Description: "3D Modeling (Blender, C4D, Solidworks)，2D Illustration (Adobe Illustration, Photoshop, Flash)，Video-editing (PR, DaVinci)，Script/Coding (Python, HTML language)，COSMOL (Simulation, Flow simulation)，Poster design"
+subtitle:
+
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-
+feature:
+  - description: 90%
+    icon: r-project
+    icon_pack: fab
+    name: R
+  - description: 100%
+    icon: chart-line
+    icon_pack: fas
+    name: Statistics
+  - description: 10%
+    icon: camera-retro
+    icon_pack: fas
+    name: Photography
+  - icon: "computer-solid"
+    name: "Computer Skills"
+    description: "Apple"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -31,5 +45,4 @@ title: Skills
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
-
 ---
