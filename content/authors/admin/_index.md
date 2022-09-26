@@ -32,8 +32,8 @@ education:
   courses:
     - course: PhD (Still looking for)
       institution: under researching
-      year: 2023
-    - course: MEng in Physucs
+      year: 2023i
+    - course: MEng in Physics
       institution: Institute of Functional Nano & Soft Materials，Soochow University
       year: 2020
     - course: BSc in Nanomaterials and Science
@@ -74,4 +74,5 @@ Zheheng(Proton) Song is a student of  Institute of Functional Nano & Soft Materi
 
 Moreover, Zheheng Song keep continuous interests in long-distance running, book-reading and personal knowledge management.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+
