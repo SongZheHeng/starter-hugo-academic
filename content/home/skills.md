@@ -29,6 +29,7 @@ feature:
     icon_pack: fas
     name: Photography
   - icon: "computer-solid"
+    icon_pack: "E:\Onedrive\4 Vault\1Githubacademic\starter-hugo-academic\assets\media\icons"
     name: "Computer Skills"
     description: "Apple"
 # Uncomment to use emoji icons.
