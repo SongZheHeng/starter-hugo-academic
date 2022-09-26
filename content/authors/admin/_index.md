@@ -1,39 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhe-Heng(Proton) Song
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master student of FUNSOM
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Soochow Univeristy
+    url: https://www.suda.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed semiconductor, hydrogel, flexible sensor, nanostructured, hydrovoltaic, energy harvesting, water desalination, Solar Cell, energy storage, TENG.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Semiconductor
+  - Nanofabrication
+  - Hydrogel
+  - Flexible materials
+  - Energy harvesting
+  - Water desalination
+  - Mechanical design
+  - Coding
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in under researching
+      institution: under researching
+      year: 2023
+    - course: MEng in Physucs
+      institution: Institute of Functional Nano & Soft Materials，Soochow University
+      year: 2020
+    - course: BSc in Nanomaterials and Science
+      institution: College of Nano Science & Technology，Soochow University
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
