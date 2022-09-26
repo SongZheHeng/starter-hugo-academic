@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhe-Heng(Proton) Song
+title: Zheheng(Proton) Song
 
 # Is this the primary user of the site?
 superuser: true
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'zhehengsong@gmail.com'
@@ -72,6 +72,6 @@ highlight_name: true
 
 Zheheng(Proton) Song is a student of  Institute of Functional Nano & Soft Materials (FUNSOM) at the Soochow University. His research interests include semiconductor devices, nanofabrication, 2D/3D materials, energy havesting, solar-driven devices, hydrogel/aerogel, solar cell, supercapacitor, TENG, LED and materials engineering.
 
-Moreover, Zheheng Song keep continuous interests in Long-distance running, book-reading and personal knowledge management.
+Moreover, Zheheng Song keep continuous interests in long-distance running, book-reading and personal knowledge management.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
