@@ -9,8 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Popular Topics
-subtitle: ''
+
 
 content:
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
