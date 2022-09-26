@@ -16,22 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 3D Modeling (Blender, C4D, Solidworks), 2D Illustration (Adobe Illustration, Photoshop, Flash), Video-editing (PR, DaVinci), Script/Coding (Python, HTML language), COSMOL (Simulation, Flow simulation), Poster design and Other advanced computer-related skills
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: Computer Skills
+  - description: Python (Pandas, Numpy, Matplotlib), R Language, MATLAB, Origin
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: Data Processing
+  - description: Direct laser writing (Mask fabrication), Photolithography, Reactive ion etching, Nanoimprint, Glue dispenser, Electroplate, ALD(TiO2), PEDOT:PSS hydrogel synthesis, Silicon nanostructure fabrication by MACE method, 3D modeling and printing, Scientific illustration, Electrical measurement, SEM, XPS, UPS, Raman, SEM, KPFM and other sorts of instruments
     icon: camera-retro
     icon_pack: fas
-    name: Photography
-  - icon: "computer-solid"
-    icon_pack: "E:\Onedrive\4 Vault\1Githubacademic\starter-hugo-academic\assets\media\icons"
-    name: "Computer Skills"
-    description: "Apple"
+    name: Science
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
