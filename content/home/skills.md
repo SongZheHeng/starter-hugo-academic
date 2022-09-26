@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 3D Modeling (Blender, C4D, Solidworks), 2D Illustration (Adobe Illustration, Photoshop, Flash), Video-editing (PR, DaVinci), Script/Coding (Python, HTML language), COSMOL (Simulation, Flow simulation), Poster design and Other advanced computer-related skills
-    icon: chart-line
+    icon: computer
     icon_pack: fas
     name: Computer Skill
   - description: Python (Pandas, Numpy, Matplotlib), R Language, MATLAB, Origin
