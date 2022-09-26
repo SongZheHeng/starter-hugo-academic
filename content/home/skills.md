@@ -24,7 +24,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Data Processing
-  - description: Direct laser writing (Mask fabrication), Photolithography, Reactive ion etching, Nanoimprint, Glue dispenser, Electroplate, ALD(TiO2)。Unique skills: PEDOT:PSS hydrogel synthesis, Silicon nanostructure fabrication by MACE method, 3D modeling and printing, Scientific illustration。Characterization: Electrical measurement, SEM, XPS, UPS, Raman, SEM, KPFM and other sorts of instruments
+  - description: Direct laser writing (Mask fabrication)
     icon: camera-retro
     icon_pack: fas
     name: Science Skills
