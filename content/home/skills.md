@@ -10,9 +10,7 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
 -	icon: "computer-solid"
-    icon_pack: "fa"
     name: "Computer Skills"
     Description: "3D Modeling (Blender, C4D, Solidworks)，2D Illustration (Adobe Illustration, Photoshop, Flash)，Video-editing (PR, DaVinci)，Script/Coding (Python, HTML language)，COSMOL (Simulation, Flow simulation)，Poster design"
 # Showcase personal skills or business features.
