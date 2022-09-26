@@ -16,9 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 3D Modeling (Blender, C4D, Solidworks), 2D Illustration (Adobe Illustration, Photoshop, Flash), Video-editing (PR, DaVinci), Script/Coding (Python, HTML language), COSMOL (Simulation, Flow simulation), Poster design and Other advanced computer-related skills
-    icon: computer
-    icon_pack: fas
+  - description: 3D Modeling (Blender, C4D, Solidworks)
+2D Illustration (Adobe Illustration, Photoshop, Flash)
+Video-editing (PR, DaVinci), Script/Coding (Python, HTML language), COSMOL (Simulation, Flow simulation), Poster design and Other advanced computer-related skills
+    icon: fa-computer
+    icon_pack: fa-sharp
     name: Computer Skill
   - description: Python (Pandas, Numpy, Matplotlib), R Language, MATLAB, Origin
     icon: chart-line
